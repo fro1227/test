@@ -1,13 +1,7 @@
 add 
 edited in local 
-<<<<<<< HEAD
 
 edited in gibhub
 =======
 "edit 3 " 
 >>>>>>> 5d2964e (edit 3)
-
-
-edited in gibhub 4
-
-edited in gibhub 5
